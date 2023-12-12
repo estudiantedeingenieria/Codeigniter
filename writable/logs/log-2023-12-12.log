@@ -1,0 +1,32 @@
+CRITICAL - 2023-12-12 10:04:14 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-12 10:04:58 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-12 10:05:39 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-12 10:13:56 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-12 10:22:12 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-12 10:23:41 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-12 10:27:58 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-12 10:28:01 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\codeigniter4\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
